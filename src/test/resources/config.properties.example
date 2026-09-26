@@ -1,0 +1,5 @@
+# Copy to config.local.properties for secrets (gitignored), or edit config.properties.
+# Never commit real API passwords to Git.
+
+apiBaseUrl=https://demoqa.com/
+apiPassword=CHANGE_ME
